@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "lova";
+    src: url(/fonte/Lova\ Bear\ Two\ Font\ by\ Dreamink\ \(7NTypes\).otf);
+}
+
+@font-face {
+    font-family: luvable;
+    src: url(/fonte/FontdinerdotcomLuvable.ttf);
+}
+
+@font-face{
+    font-family: KB;
+    src: url(/fonte/KBTwoLovers.ttf);
+}
+
+h1{
+    font-family: KB;
+}
+
